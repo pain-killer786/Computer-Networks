@@ -1,0 +1,1 @@
+/*Write a C program to implement a simple client server application using Unix file socket. The client will send a 4-digit decimal number to the server. The server will check whether it is odd or even number and send the result to the client.*/

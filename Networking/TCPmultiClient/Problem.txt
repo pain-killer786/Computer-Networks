@@ -1,0 +1,1 @@
+Create a multi-client TCP server. The client will take a dataword and divisor from the user and send them to the server. The server will find out the codeword using CRC and send it to the client.

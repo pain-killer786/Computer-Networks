@@ -1,0 +1,1 @@
+2. Write C programs to implement a simple client-server application .A client will send n integers to the server ,which will sort the integers and send back to client .The client will print the result .Use Unix File socket for communication 

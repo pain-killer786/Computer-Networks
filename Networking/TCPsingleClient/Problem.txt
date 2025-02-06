@@ -1,0 +1,1 @@
+2a. Write C Programs to implement TCP socket . The client will take a bit - stream from the user and send it to the server.The server will implement bit stuffing and send the stream back to the client.The client will print it.
